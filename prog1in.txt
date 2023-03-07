@@ -1,0 +1,13 @@
+-25
+int
+counter1
+12.34
+-0.05E+9
+While
+sum
++.123
+while
+_system
+if
+12.34e-5
+
